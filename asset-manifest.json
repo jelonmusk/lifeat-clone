@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lifeat-clone/static/css/main.bcf941ad.css",
-    "main.js": "/lifeat-clone/static/js/main.e58dbc89.js",
+    "main.js": "/lifeat-clone/static/js/main.13c95049.js",
     "static/js/453.db8e9c1c.chunk.js": "/lifeat-clone/static/js/453.db8e9c1c.chunk.js",
     "index.html": "/lifeat-clone/index.html",
     "main.bcf941ad.css.map": "/lifeat-clone/static/css/main.bcf941ad.css.map",
-    "main.e58dbc89.js.map": "/lifeat-clone/static/js/main.e58dbc89.js.map",
+    "main.13c95049.js.map": "/lifeat-clone/static/js/main.13c95049.js.map",
     "453.db8e9c1c.chunk.js.map": "/lifeat-clone/static/js/453.db8e9c1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcf941ad.css",
-    "static/js/main.e58dbc89.js"
+    "static/js/main.13c95049.js"
   ]
 }
